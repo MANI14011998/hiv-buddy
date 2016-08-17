@@ -29,7 +29,7 @@
             	<p>This example shows how to use lazy loaded images, a sticky menu, and a simple text container</p>
             	<div class="centered ui fluid vertical menu">
 
-            		<a href="what-is-hiv.html"  align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
+            		<a href="what-is-hiv.php"  align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
 
             		<i class=" comment outline icon"></i>WHAT IS HIV 
 
