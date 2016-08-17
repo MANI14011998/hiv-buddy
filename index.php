@@ -26,7 +26,9 @@
             <div class="ui main text container ">
             	<img class="ui centered  image" src="img/logo.png">
             	<h1 class="ui header centered"> HIV Buddy </h1>
-            	<p>This example shows how to use lazy loaded images, a sticky menu, and a simple text container</p>
+            	<p style="text-align: center; ">
+                    <i>We make everyone aware because we care.    </i>
+                </p>
             	<div class="centered ui fluid vertical menu">
 
             		<a href="what-is-hiv.php"  align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
