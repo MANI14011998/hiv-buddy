@@ -26,9 +26,9 @@
             <div class="ui main text container ">
             	<img class="ui centered  image" src="img/logo.png">
             	<h1 class="ui header centered"> HIV Buddy </h1>
-            	<p style="text-align: center; ">
+            	<h3 style="text-align: center;color: #B71C1C;padding: 10px; ">
                     <i>We make everyone aware because we care.    </i>
-                </p>
+                </h3>
             	<div class="centered ui fluid vertical menu">
 
             		<a href="what-is-hiv.php"  align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
