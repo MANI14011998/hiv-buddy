@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>HIV Buddy</title>
+	<title>HIV Symptoms</title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,30 +27,24 @@
             	<img class="ui centered  image" src="img/logo.png">
             	<h1 class="ui header centered"> HIV Buddy </h1>
             	<p>This example shows how to use lazy loaded images, a sticky menu, and a simple text container</p>
-            	<div class="centered ui fluid vertical menu">
+            	
+            	<h3 class="header-title">What is HIV</h3>
+            	<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
 
-            		<a href="what-is-hiv.html"  align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
+            	<h3 class="header-title">HIV and Safer Sex</h3>
+            	<p>HIV can be transmitted via unprotected sexual intercourse. These methods will help you prevent HIV transmission.</p>
+            	<h4 class="secondary-header-title ">Condoms</h4>
 
-            		<i class=" comment outline icon"></i>WHAT IS HIV 
+            		<h3 class="header-title">HIV and Pregnancy</h3>
+            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
 
-            		</a>
-            		<a href="hiv-symptoms.php" align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
-            		<i class=" edit outline icon"></i>
-            		SYMPTOMS</a>
-            		<a align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
-            		<i class=" idea outline icon"></i>
-            		HIV PREVENTION</a>
-            		<a align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
-            		<i class=" treatment outline icon"></i>
-            		TREATMENT</a>
 
-            		
-            		<a align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
-            			<i class=" doctor outline icon"></i>
-            		NEED HELP ? </a>
+            		<h3 class="header-title">HIV and Men Who have sex with fellow men</h3>
+            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
+
+            		<h3 class="header-title">HIV and Women Who have sex with fellow women</h3>
+            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
             	</div>
-
-            </div>
 
 
 
