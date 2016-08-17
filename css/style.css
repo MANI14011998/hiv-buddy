@@ -49,3 +49,22 @@ body {
         margin: 5em 0em 0em;
         padding: 5em 0em;
       }
+
+      .nav {
+
+        border-bottom:1px solid #eee;background: #B71C1C;color:#fff;text-align: center;
+      }
+
+      .header-title {
+        background-color: #B71C1C;
+        padding: 10px;
+        color: #fff;
+        text-transform: uppercase;
+      }
+
+      .secondary-header-title {
+        color: #B71C1C;
+        /*margin-left: 1.2em;*/
+        padding: 10px;
+        text-transform: uppercase;
+      }
