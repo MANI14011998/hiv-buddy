@@ -67,4 +67,9 @@ body {
         /*margin-left: 1.2em;*/
         padding: 10px;
         text-transform: uppercase;
+
+      }
+      p {
+        text-indent: 30px !important;
+
       }

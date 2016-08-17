@@ -10,8 +10,8 @@
 	<link rel="apple-touch-icon" href="apple-touch-icon.png">
 	<!-- Place favicon.ico in the root directory -->
 
-<!-- 	<link rel="stylesheet" href="css/normalize.css">
-	<link rel="stylesheet" href="css/main.css"> -->
+<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/semantic.css">
 	<link rel="stylesheet" href="css/style.css">
 
@@ -24,49 +24,34 @@
 
             <!-- Add your site or application content here -->
             <div class="ui main text container ">
-            	<img class="ui centered  image" src="img/logo.png">
+            	<!-- <img class="ui centered  image" src="img/logo.png">
             	<h1 class="ui header centered"> HIV Buddy </h1>
-            	<p>This example shows how to use lazy loaded images, a sticky menu, and a simple text container</p>
+            	<p>This example shows how to use lazy loaded images, a sticky menu, and a simple text container</p> -->
             	
-            	<h3 class="header-title">What is HIV</h3>
-            	<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
+            	<h3 class="header-title">HIV Symptoms and Stages</h3>
+            	<p>The symptoms of HIV can differ from person-to-person and some people may not get any symptoms at all. Without treatment, the virus will get worse over time and damage your immune system. We look at the three stages of HIV infection and possible effects.</p>
+                <h4 class="secondary-header-title ">Acute primary infection</h4>
+                <p>Around one to four weeks after becoming infected with HIV, some people will experience symptoms that can feel a lot like flu. This may not last long (a week or two) and you may only get some of the flu symptoms – or none at all. Experiencing these symptoms alone are not a reliable way of diagnosing HIV.1
 
-            	<h3 class="header-title">HIV and Safer Sex</h3>
-            	<p>HIV can be transmitted via unprotected sexual intercourse. These methods will help you prevent HIV transmission.</p>
-            	<h4 class="secondary-header-title ">Condoms</h4>
+                    You should always visit your doctor if you are worried you have been at risk of HIV infection, even if you don’t feel unwell or have any of the following symptoms. They can then arrange for you to have an HIV test.
 
-            		<h3 class="header-title">HIV and Pregnancy</h3>
-            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
+                    <p class="secondary-header-title">Symptoms can include:</p>
+                    <ul style="margin-left: 50px;">
 
+                        <li>fever (raised temperature)</li>
+                        <li>fever (raised temperature)</li>
+                        <li>sore throat</li>
+                        <li>swollen glands</li>
+                        <li>headache</li>
+                        <li>upset stomach</li>
+                        <li>body rash</li>
+                        <li>joint aches and pains</li>
+                        <li>muscle pain.</li></ul>
+                        <p>These symptoms can happen because your body is reacting to the HIV virus. Cells that are infected with HIV are circulating throughout your blood system, so your immune system then tries to attack the virus by producing HIV antibodies. This process is called seroconversion, and it usually happens within 45 days of infection and can take up to a few months to complete.</p>
 
-            		<h3 class="header-title">HIV and Men Who have sex with fellow men</h3>
-            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
-
-            		<h3 class="header-title">HIV and Women Who have sex with fellow women</h3>
-            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
-            	</div>
-
-
-
-
-         <!--    <div class="ui text container">
-            	<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
-            </div> -->
-            <!-- /end content -->
-
-            <!--  // <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
-     <!--    // <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-        // <script src="js/plugins.js"></script>
-        // <script src="js/main.js"></script> -->
-
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-        //     (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-        //     function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-        //     e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        //     e.src='https://www.google-analytics.com/analytics.js';
-        //     r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-        //     ga('create','UA-XXXXX-X','auto');ga('send','pageview');
-        // </script>
+                        <p>It’s important that you always use a condom when having sex, especially if you think you have been exposed to HIV. It may be too early to get an accurate HIV test result at this stage (this can take anything from a few weeks to a few months), but the levels of virus in your blood system are very high at this stage.</p></p>
+                        <h4 class="secondary-header-title">The asymptomatic stage</h4>
+                        <p>Once the seroconversion stage is over, many people start to feel better. In fact, the HIV virus may not reveal any other symptoms for many years. Health professionals say this could be around 10 years. However, the virus will still be active, infecting new cells and making copies. Over time this will cause a lot of damage to your immune system.</p>
     </body>
     </html>
+
