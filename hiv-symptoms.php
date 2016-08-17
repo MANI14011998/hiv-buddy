@@ -52,6 +52,23 @@
                         <p>It’s important that you always use a condom when having sex, especially if you think you have been exposed to HIV. It may be too early to get an accurate HIV test result at this stage (this can take anything from a few weeks to a few months), but the levels of virus in your blood system are very high at this stage.</p></p>
                         <h4 class="secondary-header-title">The asymptomatic stage</h4>
                         <p>Once the seroconversion stage is over, many people start to feel better. In fact, the HIV virus may not reveal any other symptoms for many years. Health professionals say this could be around 10 years. However, the virus will still be active, infecting new cells and making copies. Over time this will cause a lot of damage to your immune system.</p>
+                        <h4 class="secondary-header-title">Symptomatic HIV infection</h4>
+                        <p>During the third stage of HIV infection there is usually a lot of damage to your immune system. At this point, you are more likely to get serious infections or bacterial and fungal diseases that you otherwise would be able to fight off. These infections are referred to as ‘opportunistic infections’. If a person is experiencing opportunistic infections they are now said to have AIDS.</p>
+                        <p class="secondary-header-title">Symptoms that you may have during this time can include:</p4>
+
+                        <ul style="margin-left: 50px;">
+                        <li>weight loss</li>
+                        <li>chronic diarrhoea</li>
+                        <li>night sweats</li>
+                        <li>a fever</li>
+                        <li>a persistent cough</li>
+                        <li>mouth and skin problems</li>
+                        <li>regular infections</li>
+                        <li>serious illnesses or diseases</li>
+                        </ul>
+
+                        <p>There isn’t a test for AIDS and you can’t inherit it. AIDS is a syndrome, and this means it is diagnosed from a set of symptoms that happen when you become very ill from a serious infection or disease.</p>
+                        <p>Taking treatment on a daily basis can be difficult to get used to, especially if you are suffering from any side-effects, so it’s important to access support from health professionals when you need it. Having AIDS also does not mean you will die from an AIDS-related illness – but getting the right treatment is really important at this point.</p>
     </body>
     </html>
 
