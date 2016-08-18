@@ -37,15 +37,15 @@
             		<a href="hiv-symptoms.php" align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
             		<i class=" edit outline icon"></i>
             		SYMPTOMS</a>
-            		<a align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
+            		<a href="hiv-prevention.php" align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
             		<i class=" idea outline icon"></i>
             		HIV PREVENTION</a>
-            		<a align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
+            		<a href="hiv-treatment.php" align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
             		<i class=" treatment outline icon"></i>
             		TREATMENT</a>
 
             		
-            		<a align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
+            		<a href="need-help.php" align="center" style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
             			<i class=" doctor outline icon"></i>
             		NEED HELP ? </a>
             	</div>
