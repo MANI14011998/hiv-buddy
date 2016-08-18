@@ -24,7 +24,7 @@
 
             <!-- Add your site or application content here -->
             <div class="ui main text container ">
-            	<img class="ui centered  image" src="img/logo.png">
+            	<img class="ui centered  image" src="img/prevention.png">
             	
             	<h3 class="header-title">How to Avoid HIV</h3>
             	<p>You can only get HIV if the bodily fluids of someone who already has HIV get into your body. A person with HIV can pass the virus to others whether they have symptoms or not.</p>
@@ -43,6 +43,9 @@
 
                 <a href=""><h4 class="secondary-header-title ">Blood transfusions & transplants and HIV</h4></a>
                 <p>Blood transfusions or organ donations must be tested for HIV so they are safe.</p>
+
+                <a href=""><h4 class="secondary-header-title">Myths about HIV and AIDS</h4></a>
+                <p>A lot of people still believe you can get HIV from things like toilet seats and insects.</p>
 
             </body>
             </html>

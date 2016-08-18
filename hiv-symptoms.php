@@ -24,7 +24,7 @@
 
             <!-- Add your site or application content here -->
             <div class="ui main text container ">
-            	<img class="ui centered  image" src="img/logo.png">
+            	<img class="ui centered  image" src="img/symptoms.png">
             	
             	<h3 class="header-title">HIV Symptoms and Stages</h3>
             	<p>The symptoms of HIV can differ from person-to-person and some people may not get any symptoms at all. Without treatment, the virus will get worse over time and damage your immune system. We look at the three stages of HIV infection and possible effects.</p>

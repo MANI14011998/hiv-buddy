@@ -24,7 +24,7 @@
 
             <!-- Add your site or application content here -->
             <div class="ui main text container ">
-            	<img class="ui centered  image" src="img/logo.png">
+            	<img class="ui centered  image" src="img/what-is-hiv.png">
             	<h1 class="ui header centered"> HIV Buddy </h1>
             	<p>This example shows how to use lazy loaded images, a sticky menu, and a simple text container</p>
             	

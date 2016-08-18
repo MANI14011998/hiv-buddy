@@ -40,7 +40,7 @@
             		<a href="hiv-prevention.php" align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
             		<i class=" idea outline icon"></i>
             		HIV PREVENTION</a>
-            		<a href="hiv-treatment.php" align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
+            		<a href="treatment.php" align="center"  style="border-bottom:1px solid #eee;background: #B71C1C;color:#fff;" class="item">
             		<i class=" treatment outline icon"></i>
             		TREATMENT</a>
 
