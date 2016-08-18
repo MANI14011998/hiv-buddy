@@ -31,13 +31,13 @@
                 <p>To ensure that your treatment works properly you need to stay engaged with a healthcare professional so that they can monitor your progress, manage any side effects and change your treatment if necessary.</p>
                 <p>Treatment options are constantly improving. You no longer have to take lots of pills and the side effects are much easier to cope with or even non-existent.</p>
 
-                <a href=""><h4 class="secondary-header-title ">Starting antiretroviral treatment for HIV</h4></a>
+                <a href=""><h5 class="header-title ">Starting antiretroviral treatment for HIV</h5></a>
                 <p>You will have various tests to determine when you need to start treatment.</p>
 
-                <a href=""><h4 class="secondary-header-title ">Monitoring and switching antiretroviral treatment for HIV</h4></a>
+                <a href=""><h5 class="header-title ">Monitoring and switching antiretroviral treatment for HIV</h5></a>
                 <p>It is vital that your health is monitored to check if your treatment is working properly.</p>
 
-                <a href=""><h4 class="secondary-header-title ">Antiretroviral treatment for children living with HIV</h4></a>
+                <a href=""><h5 class="header-title ">Antiretroviral treatment for children living with HIV</h5></a>
                 <p>It's important to encourage a child living with HIV to take their treatment properly.</p>
 
             </body>

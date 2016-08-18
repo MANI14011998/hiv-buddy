@@ -31,20 +31,20 @@
                 <p>There are a lot of myths around how HIV is passed from one person to another (HIV transmission) but there are only a few ways you can get it. There are also a number of things you can do to reduce your chances of infection.</p>
                 
                 <a href="how-do-you-get-hiv.php">
-                    <h4 class="secondary-header-title ">How do you get HIV?</h4>
+                    <h5 class="header-title ">How do you get HIV?</h5>
                 </a>
                 <p>There are only a few ways you can get HIV. Find out how to protect yourself.</p>
 
-                <a href=""><h4 class="secondary-header-title ">Unprotected sex and HIV</h4></a>
+                <a href=""><h5 class="header-title ">Unprotected sex and HIV</h5></a>
                 <p>Unprotected sex (not using a condom) puts you at risk of HIV and STIs.</p>
 
-                <a href=""><h4 class="secondary-header-title ">Pregnancy, childbirth & breastfeeding and HIV</h4></a>
+                <a href=""><h5 class="header-title ">Pregnancy, childbirth & breastfeeding and HIV</h5></a>
                 <p>Mothers living with HIV can take treatment to protect their baby from HIV.</p>
 
-                <a href=""><h4 class="secondary-header-title ">Blood transfusions & transplants and HIV</h4></a>
+                <a href=""><h5 class="header-title ">Blood transfusions & transplants and HIV</h5></a>
                 <p>Blood transfusions or organ donations must be tested for HIV so they are safe.</p>
 
-                <a href=""><h4 class="secondary-header-title">Myths about HIV and AIDS</h4></a>
+                <a href=""><h5 class="header-title">Myths about HIV and AIDS</h5></a>
                 <p>A lot of people still believe you can get HIV from things like toilet seats and insects.</p>
 
             </body>
