@@ -2,51 +2,19 @@
 
 require_once('vendor/autoload.php');
 
-$mail = new PHPMailer;
-
-//From email address and name
-$mail->From = "kaidemizuyo@gmail.com";
-$mail->FromName = "Raymund santillan";
-
-//To address and name
-$mail->addAddress("raymsantillan@gmail.com", "jojo san");
-// $mail->addAddress("recepient1@example.com"); //Recipient name is optional
-
-//Address to which recipient will reply
-// $mail->addReplyTo("reply@yourdomain.com", "Reply");
-
-// //CC and BCC
-// $mail->addCC("cc@example.com");
-// $mail->addBCC("bcc@example.com");
-
-//Send HTML or Plain Text email
-$mail->isHTML(true);
-
-$mail->Subject = "Subject Text";
-$mail->Body = "<i>Mail body in HTML</i>";
-$mail->AltBody = "This is the plain text version of the email content";
-
-if(!$mail->send()) 
-{
-    echo "Mailer Error: " . $mail->ErrorInfo;
-} 
-else 
-{
-    echo "Message has been sent successfully";
-}
-
-
-
 // // Create the Transport
 // $transport = Swift_SmtpTransport::newInstance()
-//     ->setUsername('raymsantillan@gmail.com')
-//     ->setPassword('iamrhayken')
-//   ->setHost('smtp.gmail.com')
+
 //   ->setPort(465)
 //   ->setEncryption('ssl');
+//   
+// $transport = Swift_SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl')
+//    ->setUsername('raymsantillan@gmail.com')
+//    ->setPassword('******');
 
+// $this->mailer = Swift_Mailer::newInstance($transporter);
 
-// // Create the Mailer using your created Transport
+// Create the Mailer using your created Transport
 // $mailer = Swift_Mailer::newInstance($transport);
 
 // // Create a message
@@ -54,18 +22,18 @@ else
 //   ->setFrom(array('support@hivbuddy.com' => 'HIV Buddy Support'))
 //   ->setTo(array('raymsantillan@gmail.com'))
 //   ->setBody('Here is the message itself');
-  
+
 
 // // Send the message
 //  try{
-       
+
 //         $response = $mailer->send($message);
 //     }catch(\Swift_TransportException $e){
 //         $response = $e->getMessage() ;
 //     }
 
 
- ?>
+?>
 
 
 <!doctype html>
@@ -96,7 +64,7 @@ else
             <div class="ui main text container ">
             	<img class="ui centered  image" src="img/logo.png">
             	
-            	<h3 class="header-title">Because we care about you !</h3>
+            <!-- 	<h3 class="header-title">Because we care about you !</h3>
                 <p> Leave your contact details below and we will reach the right persons/organizations for you.   </p>
                 <h4 class="secondary-header-title ">
                     LEAVE YOUR CONTACT DETAILS BELOW.
@@ -108,12 +76,12 @@ else
                   <div class="content">
                     <div class="header">
                         Worried ? 
-                  </div>
+                    </div>
                     don't worry, we care about your identity
-              </div>
-          </div>
+                </div>
+            </div>
 
-          <form class="ui form">
+            <form class="ui form">
               <div class="field">
                 <label>First Name</label>
                 <input type="text" name="fname" placeholder="First Name">
@@ -126,7 +94,7 @@ else
                 <label>Email Address</label>
                 <input type="email" name="email" placeholder="Your email where we can contact you">
             </div>
-             <div class="field">
+            <div class="field">
                 <label>Phone number / Mobile Number</label>
                 <input type="text" name="mobile_number" placeholder="Your contact number ">
             </div>
@@ -134,9 +102,57 @@ else
                 <label>Your concerns</label>
                 <textarea  name="msg" placeholder="Tell us your concerns and what are you experiencing now"></textarea>
             </div>
-          <button class="ui button" type="submit">Submit</button>
-      </form>
+            <button class="ui button" type="submit">Submit</button>
+        </form>
+ -->
+        <h3 class="header-title"> CONTACT RESOURCES </h3>
+        <p>For more concerns about HIV and AIDS, contact the Department of Health (DOH) : </p>
 
-  </body>
-  </html>
+        <p>Website : <a href="http://www.doh.gov.ph">Department of Health Website</a></p>
+        <p><strong>DR. PAULYN JEAN B. ROSELL-UBIAL - Secretary of Health</strong></p>
+        <p>Contact # 743-1829 TF, 651-7801, 743-6393, 711-9502</p>
+
+        <p><strong>DR. LILIBETH C. DAVID - Undersecretary of Health</strong></p>
+        <p>Email : lilibethdavid18@yahoo.com</p>
+        <p>Contact # 651-7800 loc 1334-1336</p>
+
+        <h3 class="header-title">HIV Care and Support Groups </h3>
+        <p> These are groups of people who are dedicated and committed to help you survive your sufferrings against HIV and AIDS. </p>
+        
+
+        <h4 class="secondary-header-title ">CEBU PLUS</h4>
+        <p>Room 203, Cebu City Health Department
+            Gen. Maxilom Avenue Extension, 6014
+            6000 Cebu, Philippines</p>
+            <p>(032) 260 5517 or (032) 416 5368</p>
+            <p>cebuplus@gmail.com or cebuplus_john@yahoo.com</p>
+
+            <h4 class="secondary-header-title ">Pinoy Plus Association Inc.</h4>
+            <p>1805 Pedro Guevarra Street, Sta. Cruz, Manila, Philippines</p>
+            <p> (02) 743 7293</p>
+            <p>pinoy.plus@yahoo.com.ph or plus.pnoy1@gmail.com</p>
+            <p>facebook.com/pinoyplus</p>
+
+            <h4 class="secondary-header-title ">Positive Action Foundation Philippines, Inc. (PAFPI)</h4>
+            <p> Bahay Kanlungan Center,2615 Dian St., Malate, Manila, Philippines 1004</p>
+            <p>2615 Dian St., Malate, Manila, Philippines 1004</p>
+            <p>positiveactionfoundation@yahoo.com</p>
+
+            <h4 class="secondary-header-title ">The Project Red Ribbon Care Management Foundation, Inc.  (TRR)</h4>
+            <p> Unit 607 Lumiere Suites, #21 General Capinpin Street,
+                Barangay San Antonio, Pasig City</p>
+                <p>0919-642-9286, 0977-131-2046, 0906-389-2402, 0917-899-0473, 0916-216-2066</p>
+                <p>contact@projectredribbon.org</p>
+                <p>http://pozziepinoy.blogspot.com</p>
+
+                <h4 class="secondary-header-title ">Yoga For Life Foundation</h4>
+                <p>(0917) 954 6325</p>
+                <p>yogaforlife.ph@gmail.com
+                </p>
+                <p>http://www.yogaforlife.ph</p>
+                <i> Source : http://www.loveyourself.ph/p/hiv-care-and-support-groups.html</i>
+                <div style="padding: 20px;"></div>
+
+            </body>
+            </html>
 

@@ -1,0 +1,6 @@
+To: raymsantillan@gmail.com
+Subject: My subject
+From: webmaster@example.com
+CC: somebodyelse@example.com
+
+Hello world!
