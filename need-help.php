@@ -1,7 +1,10 @@
 <?php 
 
 require_once('vendor/autoload.php');
-// require_once('vendor/swiftmailer/swiftmailer/lib/swift_required.php');
+
+
+
+
 
 // Create the Transport
 $transport = Swift_SmtpTransport::newInstance()
@@ -9,7 +12,7 @@ $transport = Swift_SmtpTransport::newInstance()
     ->setPassword('iamrhayken')
   ->setHost('smtp.gmail.com')
   ->setPort(465)
-  ->setEncryption('tls');
+  ->setEncryption('ssl');
 
 
 // Create the Mailer using your created Transport
@@ -17,8 +20,8 @@ $mailer = Swift_Mailer::newInstance($transport);
 
 // Create a message
 $message = Swift_Message::newInstance('Wonderful Subject')
-  ->setFrom(array('asd@gmail.com' => 'John Doe'))
-  ->setTo(array('kaidemizuyo@gmail.com'))
+  ->setFrom(array('support@hivbuddy.com' => 'HIV Buddy Support'))
+  ->setTo(array('raymsantillan@gmail.com'))
   ->setBody('Here is the message itself');
   
 
