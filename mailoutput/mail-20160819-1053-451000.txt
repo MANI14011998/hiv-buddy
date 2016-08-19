@@ -1,0 +1,10 @@
+To: kaidemizuyo@gmail.com
+Subject: Wonderful Subject
+Message-ID: <c70ff4eaa7fc328b1a54def2008a00f3@localhost>
+Date: Fri, 19 Aug 2016 12:53:24 +0200
+From: John Doe <john@doe.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Here is the message itself
