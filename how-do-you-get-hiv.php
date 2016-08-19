@@ -24,7 +24,6 @@
 
             <!-- Add your site or application content here -->
             <div class="ui main text container ">
-            	<img class="ui centered  image" src="img/logo.png">
             	
             	<h3 class="header-title">How Do You Get HIV?</h3>
                 <p>Despite what you may have heard, there are only a few ways you can get HIV. Here, we explain the ways you can get it and how to protect yourself from HIV infection.</p>
