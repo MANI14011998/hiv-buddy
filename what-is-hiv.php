@@ -34,39 +34,58 @@
             	<h3 class="header-title">HIV and Safer Sex</h3>
             	<p>HIV can be transmitted via unprotected sexual intercourse. These methods will help you prevent HIV transmission.</p>
             	<h4 class="secondary-header-title ">Condoms</h4>
+                Two types of condom:
+                <ul>
+                    <li>   Male: fits on a man’s erect penis</li>
+                    <li>   Female: fits inside a woman’s vagina</li>
+                </ul>
+                <p>Do not re-use condoms, or use two at once.</p>
+                <p>Use for vaginal, anal and oral sex, and also on sex toys</p>
 
-            		<h3 class="header-title">HIV and Pregnancy</h3>
-            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
+                <h4 class="secondary-header-title ">Lubricants</h4>
+                <p>Lubricant/lube is a liquid that is designed to reduce friction during sex. You can buy bottles of different kinds of lube.
+
+                    Most condoms are coated in lube: this makes penetration easier and prevents condoms breaking or causing tissue damage.
+
+                    Oil-based lube damages latex condoms, so use water-based, or silicone-based lube instead.</p>
+
+                    <h4 class="secondary-header-title ">Dental Damns</h4>
+                    <p>Square piece of latex, used as a barrier method like the condom.</p>
+                    <ul>
+                     <li>Use during oral sex on a woman’s genitals, or on the anus, to prevent oral-vaginal, or oral-anal contact.</li>
+                     <li>Use during oral sex on a woman’s genitals, or on the anus, to prevent oral-vaginal, or oral-anal contact.</li>
+                     <li>There is a small risk of HIV infection from oral sex on the penis, vagina or anus but only if bleeding sores are present.</li>
+                 </ul>
+
+                 <h4 class="secondary-header-title ">Sex Toys</h4>
+                 <p>There are a wide variety of sex toys available. Share sex toys safely:</p>
+                 <ul>
+                    <li>Use a condom on a toy.</li>
+                    <li>Change the condom when using a toy in different parts of your body (e.g. anus to vagina) and when switching between partners.</li>
+                    <li>Wash toys thoroughly (disinfect) when using them in different parts of the body.</li>
+                    <li>Wash them thoroughly when switching between partners.</li>
+                    <li>Use toys carefully to prevent tearing the vagina/anus or drawing blood</li>
+                </ul>
 
 
-            		<h3 class="header-title">HIV and Men Who have sex with fellow men</h3>
-            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
-
-            		<h3 class="header-title">HIV and Women Who have sex with fellow women</h3>
-            		<p>HIV is a virus that gradually attacks the immune system, which is our body’s natural defence against illness. If a person becomes infected with HIV, they will find it harder to fight off infections and diseases. The virus destroys a type of white blood cell called a T-helper cell and makes copies of itself inside them. T-helper cells are also referred to as CD4 cells.1</p>
-            	</div>
 
 
 
+                <h3 class="header-title">Know your rights</h3>
 
-         <!--    <div class="ui text container">
-            	<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
-            </div> -->
-            <!-- /end content -->
+                <p>You have the right to:</p>
+                <ul>
+                    <li>use a condom</li>
+                    <li>use contraception</li>
+                    <li> a confidential STI or HIV test.</li>
+                </ul>
+                
+                
+                
+            </div>
 
-            <!--  // <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script> -->
-     <!--    // <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
-        // <script src="js/plugins.js"></script>
-        // <script src="js/main.js"></script> -->
 
-        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
-        <script>
-        //     (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-        //     function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-        //     e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        //     e.src='https://www.google-analytics.com/analytics.js';
-        //     r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-        //     ga('create','UA-XXXXX-X','auto');ga('send','pageview');
-        // </script>
-    </body>
-    </html>
+
+
+        </body>
+        </html>

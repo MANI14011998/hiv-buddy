@@ -1,0 +1,28 @@
+To: jojo san <raymsantillan@gmail.com>
+Subject: Subject Text
+Date: Fri, 19 Aug 2016 16:55:30 +0200
+From: Full Name <from@yourdomain.com>
+Message-ID: <a13c7a4a950035a961b1c4e023043fdf@localhost>
+X-Mailer: PHPMailer 5.2.16 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_a13c7a4a950035a961b1c4e023043fdf"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_a13c7a4a950035a961b1c4e023043fdf
+Content-Type: text/plain; charset=us-ascii
+
+This is the plain text version of the email content
+
+
+--b1_a13c7a4a950035a961b1c4e023043fdf
+Content-Type: text/html; charset=us-ascii
+
+<i>Mail body in HTML</i>
+
+
+
+--b1_a13c7a4a950035a961b1c4e023043fdf--
+

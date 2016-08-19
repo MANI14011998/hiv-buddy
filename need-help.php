@@ -2,36 +2,67 @@
 
 require_once('vendor/autoload.php');
 
+$mail = new PHPMailer;
+
+//From email address and name
+$mail->From = "kaidemizuyo@gmail.com";
+$mail->FromName = "Raymund santillan";
+
+//To address and name
+$mail->addAddress("raymsantillan@gmail.com", "jojo san");
+// $mail->addAddress("recepient1@example.com"); //Recipient name is optional
+
+//Address to which recipient will reply
+// $mail->addReplyTo("reply@yourdomain.com", "Reply");
+
+// //CC and BCC
+// $mail->addCC("cc@example.com");
+// $mail->addBCC("bcc@example.com");
+
+//Send HTML or Plain Text email
+$mail->isHTML(true);
+
+$mail->Subject = "Subject Text";
+$mail->Body = "<i>Mail body in HTML</i>";
+$mail->AltBody = "This is the plain text version of the email content";
+
+if(!$mail->send()) 
+{
+    echo "Mailer Error: " . $mail->ErrorInfo;
+} 
+else 
+{
+    echo "Message has been sent successfully";
+}
 
 
 
+// // Create the Transport
+// $transport = Swift_SmtpTransport::newInstance()
+//     ->setUsername('raymsantillan@gmail.com')
+//     ->setPassword('iamrhayken')
+//   ->setHost('smtp.gmail.com')
+//   ->setPort(465)
+//   ->setEncryption('ssl');
 
-// Create the Transport
-$transport = Swift_SmtpTransport::newInstance()
-    ->setUsername('raymsantillan@gmail.com')
-    ->setPassword('iamrhayken')
-  ->setHost('smtp.gmail.com')
-  ->setPort(465)
-  ->setEncryption('ssl');
 
+// // Create the Mailer using your created Transport
+// $mailer = Swift_Mailer::newInstance($transport);
 
-// Create the Mailer using your created Transport
-$mailer = Swift_Mailer::newInstance($transport);
-
-// Create a message
-$message = Swift_Message::newInstance('Wonderful Subject')
-  ->setFrom(array('support@hivbuddy.com' => 'HIV Buddy Support'))
-  ->setTo(array('raymsantillan@gmail.com'))
-  ->setBody('Here is the message itself');
+// // Create a message
+// $message = Swift_Message::newInstance('Wonderful Subject')
+//   ->setFrom(array('support@hivbuddy.com' => 'HIV Buddy Support'))
+//   ->setTo(array('raymsantillan@gmail.com'))
+//   ->setBody('Here is the message itself');
   
 
-// Send the message
- try{
+// // Send the message
+//  try{
        
-        $response = $mailer->send($message);
-    }catch(\Swift_TransportException $e){
-        $response = $e->getMessage() ;
-    }
+//         $response = $mailer->send($message);
+//     }catch(\Swift_TransportException $e){
+//         $response = $e->getMessage() ;
+//     }
 
 
  ?>
