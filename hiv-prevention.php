@@ -35,16 +35,16 @@
                 </a>
                 <p>There are only a few ways you can get HIV. Find out how to protect yourself.</p>
 
-                <a href=""><h5 class="header-title ">Unprotected sex and HIV</h5></a>
+                <a href="unprotected-sex-and-hiv.php"><h5 class="header-title ">Unprotected sex and HIV</h5></a>
                 <p>Unprotected sex (not using a condom) puts you at risk of HIV and STIs.</p>
 
-                <a href=""><h5 class="header-title ">Pregnancy, childbirth & breastfeeding and HIV</h5></a>
+                <a href="pregnancy-childbirth-breastfeeding.php"><h5 class="header-title ">Pregnancy, childbirth & breastfeeding and HIV</h5></a>
                 <p>Mothers living with HIV can take treatment to protect their baby from HIV.</p>
 
-                <a href=""><h5 class="header-title ">Blood transfusions & transplants and HIV</h5></a>
+                <a href="blood-transfusions-transplants.php"><h5 class="header-title ">Blood transfusions & transplants and HIV</h5></a>
                 <p>Blood transfusions or organ donations must be tested for HIV so they are safe.</p>
 
-                <a href=""><h5 class="header-title">Myths about HIV and AIDS</h5></a>
+                <a href="myths.php"><h5 class="header-title">Myths about HIV and AIDS</h5></a>
                 <p>A lot of people still believe you can get HIV from things like toilet seats and insects.</p>
 
             </body>
